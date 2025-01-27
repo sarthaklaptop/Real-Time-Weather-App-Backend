@@ -125,4 +125,4 @@ application.properties: This configuration file is where the database connection
 WeatherApplicationTests.java: This is where unit tests for the application reside. It contains test cases for the various functionalities in the weather application.
 
 ## Contact
-For any questions or inquiries, please reach out to [Ishan Raising](ishanraising98@gmail.com).
+For any questions or inquiries, please reach out to [Sarthak Patil](sarthaklaptop402@gmail.com).
